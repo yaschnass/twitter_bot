@@ -15,7 +15,7 @@ This script fetches weather data for a specified city and posts updates to Twitt
 - Python 3.x
 - `tweepy` library for interacting with the Twitter API
 - `requests` library for making HTTP requests
-
+- `keys.py` script including your keys
 ## Setup
 
 1. **Clone the Repository**
