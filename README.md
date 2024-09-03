@@ -55,7 +55,7 @@ Before running the script, make sure you have:
 To run the script, execute:
 
 ```bash
-python weather_twitter_bot.py
+python twitter_botV2.py
 ```
 
 The script will run indefinitely, performing the following actions every 30 minutes:
